@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local database (re-seeds on first run; not source)
+*.db
+backend/omoc.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
